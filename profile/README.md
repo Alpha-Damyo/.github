@@ -158,14 +158,14 @@ This project is a service that provides smokers with information on nearby smoki
 ### 💾 Backend
 
 | 역할                 | 종류                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Framework            |                                                                                                                                                                                                                                                                                                                                                           |
-| Database             | |
-| Programming Language | |
-| Test                 | |
-| Deploy               | |
-| CI/CD                | |
-| ETC                  | |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Framework            | <img alt="RED" src ="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> |
+| Database             | <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/> |
+| Programming Language | <img alt="RED" src ="https://img.shields.io/badge/JAVA-004027.svg?&style=for-the-badge&logo=Jameson&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> |
+| Test                 | <img alt="RED" src ="https://img.shields.io/badge/JUnit5-25A162.svg?&style=for-the-badge&logo=JUnit5&logoColor=white"/> |
+| Deploy               |  |
+| CI/CD                |  |
+| ETC                  |  |
 
 <br />
 
@@ -192,12 +192,4 @@ This project is a service that provides smokers with information on nearby smoki
 
 <br>
 
-## 8. 사용법
-
-### Frontend
-
-### Backend
-
-<br>
-
-## 9. 기타
+## 8. 기타
