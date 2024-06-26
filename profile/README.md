@@ -59,48 +59,48 @@ This project is a service that provides smokers with information on nearby smoki
 <table>
     <tr align="center">
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/kevinmj12">
+              <img src="https://avatars.githubusercontent.com/kevinmj12" width="100">
               <br />
               <b>김민제</b>
             </a> 
             <br/>
         </td>
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/choichangyeon">
+              <img src="https://avatars.githubusercontent.com/choichangyeon" width="100">
               <br />
               <b>최창연</b>
             </a>
             <br/>
         </td>
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/ZombieBread123">
+              <img src="https://avatars.githubusercontent.com/ZombieBread123" width="100">
               <br />
               <b>이현준</b>
             </a> 
             <br/>
         </td>
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/BlueBerrySoda">
+              <img src="https://avatars.githubusercontent.com/BlueBerrySoda" width="100">
               <br />
               <b>채원찬</b>
             </a> 
             <br/>
         </td>
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/wjdwlghks">
+              <img src="https://avatars.githubusercontent.com/wjdwlghks" width="100">
               <br />
               <b>정지환</b>
             </a> 
             <br/>
         </td>
         <td style="min-width: 150px;">
-            <a href="">
-              <img src="" width="100">
+            <a href="https://github.com/guahama">
+              <img src="https://avatars.githubusercontent.com/guahama" width="100">
               <br />
               <b>최영락</b>
             </a> 
@@ -108,7 +108,7 @@ This project is a service that provides smokers with information on nearby smoki
         </td>
         <td style="min-width: 150px;">
             <a href="">
-              <img src="" width="100">
+              <img src="https://github.com/Alpha-Damyo/.github/assets/53148103/e882f67a-e259-4696-8469-ddc1d30386fa" width="100">
               <br />
               <b>최하영</b>
             </a> 
