@@ -148,17 +148,17 @@ This project is a service that provides smokers with information on nearby smoki
 
 | 역할                 | 종류                                                                                                                                                                                                                                                |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Framework            |                                                                                                                                        |
-| Database             | |
-| Programming Language |                                                                                                                                         |
-| Device               | |
+| Framework            | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> |
+| Database             | <img alt="RED" src ="https://img.shields.io/badge/SQLite-003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white"/> |
+| Programming Language | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>  |
+| Device               | <img src="https://img.shields.io/badge/Android-4A853?style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/> |
 
 <br />
 
 ### 💾 Backend
 
-| 역할                 | 종류                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 역할                 | 종류 |
+| -------------------- | ------ |
 | Framework            | <img alt="RED" src ="https://img.shields.io/badge/SPRING Boot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white"/> |
 | Database             | <img alt="RED" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white"/> |
 | Programming Language | <img alt="RED" src ="https://img.shields.io/badge/JAVA-E29027.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/> <img alt="RED" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> |
@@ -179,11 +179,12 @@ This project is a service that provides smokers with information on nearby smoki
 
 ### 🔨 Tools
 
-| 역할            | 종류                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">                                                                                                                                                                                                                                                                                                                                                                                               |
+| 역할            | 종류 |
+| --------------- | ------ |
+| Version Control | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> |
 | Cooperation     | <img alt="RED" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img alt="RED" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=white"/>  |
-| Test            | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                         
+| Test            | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> |
+
 <br>
 
 ## 7. 시스템 구조
