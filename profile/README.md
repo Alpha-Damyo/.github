@@ -45,6 +45,32 @@ This project is a service that provides smokers with information on nearby smoki
 ## 4. 프로젝트 기능
 
 #### 1️⃣ 흡연구역 안내 지도
+지도 위에 흡연구역들이 초록색 핀으로 표시되어있으며 각 핀을 터치하면 흡연구역 정보 카드가 나오게 됩니다. 카드를 터치하면 흡연구역 상세화면이 나오고 흡연구역에 대한 정보들을 확인할 수 있습니다.
+
+
+|지도 화면|흡연구역 상세정보 화면|흡연구역 사진|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/668b2dac-a90a-4675-9106-e189f059a96c">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b690e9ae-4484-4c12-b631-f6bdf7db9862">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8328f928-6815-4604-80a2-c92bedaf6875">|
+<br>
+
+원하는 태그를 설정하여 검색할 수 있는 필터 검색 기능, 이름을 검색할 수 있는 검색어 검색 기능, 흡연구역 즐겨찾기 기능을 지원합니다.
+
+|필터 검색 화면|검색어 검색 화면|즐겨찾기 화면|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/89417b74-2c4b-4131-9b28-468fc71de5b3">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/388acec9-e192-4551-b380-278eceba9bd1">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/e07da089-7983-4831-b7b2-77c1718907ac">|
+<br>
+
+담요에 없는 흡연구역이 있을 경우 이를 제보할 수 있습니다.
+
+|제보할 위치의 지도 화면|흡연구역 정보 입력화면|제보가 반영된 지도 화면|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b4fcc53c-e3fb-499b-8731-f46176dad842">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/45965d2b-26a8-4535-9708-493e72244667">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/fe769996-8584-4f99-b215-1b1e1978976e">|
+<br>
+
+방문한 흡연구역에 대한 리뷰를 작성할 수 있습니다.
+|리뷰를 작성하기 전 흡연구역 상세정보 화면|리뷰 작성 화면|리뷰를 작성한 후 흡연구역 상세정보 화면|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b690e9ae-4484-4c12-b631-f6bdf7db9862">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/f43f69ac-04bb-4dec-8445-bdc1d45348d2">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8b8a3924-3fea-497f-88c4-d55eca7e9857">|
 
 #### 2️⃣ 흡연데이터 통계
 
