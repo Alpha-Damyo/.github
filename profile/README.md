@@ -12,7 +12,7 @@
   </tr>
   <tr align="center">
       <td>
-          <a href="">FRONT.md</a>
+          <a href="https://github.com/Alpha-Damyo/FE">FRONT.md</a>
       </td>
       <td>
           <a href="">BACK.md</a>
@@ -73,11 +73,31 @@ This project is a service that provides smokers with information on nearby smoki
 |<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b690e9ae-4484-4c12-b631-f6bdf7db9862">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/f43f69ac-04bb-4dec-8445-bdc1d45348d2">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8b8a3924-3fea-497f-88c4-d55eca7e9857">|
 
 #### 2️⃣ 흡연데이터 통계
+사용자가 가장 많이 방문한 흡연구역과 전체 사용자들이 가장 많이 방문한 흡연구역을 확인할 수 있습니다. 특별 기간 동안 흡연량을 확인할 수 있습니다.
+|가장 많이 방문한 흡연구역|특별 기간 흡연 통계| |
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/9a4c0ab2-80d3-4fe2-848d-7e764546d974">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8bee90bd-a486-4b75-ac70-f5e1f38a2d78">|<img width="388">|
+<br>
+
+시간별 평균 흡연량, 기간별 흡연량, 평균 흡연량을 확인할 수 있습니다.
+|시간별 평균 흡량|기간별 흡연량|평균 흡연량|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/68f8b6fa-137b-4120-8b1b-077c3ee888a7">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b123581a-cf99-4d78-8529-1aefa037ae21">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/5b3473ea-4348-4b2a-9f71-df5e62db1e12">|
+<br>
 
 #### 3️⃣ 챌린지 및 콘테스트
 
-#### 4️⃣ 마이페이지 및 소셜로그인
+챌린지 및 콘테스트를 진행할 수 있습니다. 사진찍기 챌린지를 통해 마음에 드는 흡연구역 사진에 좋아요를 누를 수 있으며 랭킹에서 순위를 확인할 수 있습니다.
+|사진찍기 챌린지 화|사진 확대 화면|랭킹 화면|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/61a23959-f082-4db0-873f-4b886663c648">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/606e2a82-6324-4ec6-87de-1dd0d6e61a26">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8dceda3c-519a-446c-ba36-372b0fb22803">|
+<br>
 
+#### 4️⃣ 마이페이지 및 소셜로그인
+마이페이지에서 로그인, 푸쉬알림 설정 등을 진행할 수 있습니다. 로그인은 구글, 카카오, 네이버 3가지의 소셜 로그인을 지원합니다.
+|로그인 전 마이페이지|로그인 페이지|로그인 후 마이페이지|
+|---|---|---|
+|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/046cc20a-e6ae-42c6-afbd-aaa9f8b723b7">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/e02c7869-7b57-4abc-a640-049f03602b3b">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/ea342aab-d2f9-427c-802c-43a950b37645">|
 <br>
 
 ## 5. 팀원 소개
