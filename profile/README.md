@@ -36,7 +36,7 @@ This project is a service that provides smokers with information on nearby smoki
 
 ## 3. 소개 영상
 영상은 Youtube에서 고화질로 보실 수 있습니다.
-[Youtube 링크](https://youtu.be/0Q3AQMtWyWU)
+[Youtube 링크](https://www.youtube.com/watch?v=5wS-LDVArWY)
 
 https://github.com/Alpha-Damyo/.github/assets/55120784/276c6559-78e5-47c6-981d-e321ccc79108
 
