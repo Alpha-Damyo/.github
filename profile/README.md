@@ -50,54 +50,45 @@ https://github.com/user-attachments/assets/0f18cca6-4657-4e88-b150-28b5bf04fbbc
 
 |지도 화면|흡연구역 상세정보 화면|흡연구역 사진|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/668b2dac-a90a-4675-9106-e189f059a96c">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b690e9ae-4484-4c12-b631-f6bdf7db9862">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8328f928-6815-4604-80a2-c92bedaf6875">|
+|<img width="388" src="https://github.com/user-attachments/assets/4e82a5aa-5f2f-4e95-acc1-33e6e87c7ee1">|<img width="388" src="https://github.com/user-attachments/assets/f9d606eb-3524-4f0e-9e8e-d94521272bd1">|<img width="388" src="https://github.com/user-attachments/assets/a30b1c9d-1622-4552-bb0a-116dc9a4edc9">|
 <br>
 
-원하는 태그를 설정하여 검색할 수 있는 필터 검색 기능, 이름을 검색할 수 있는 검색어 검색 기능, 흡연구역 즐겨찾기 기능을 지원합니다.
+원하는 태그를 설정하여 검색할 수 있는 태그 검색 기능, 이름을 검색할 수 있는 검색어 검색 기능을 지원합니다.
 
-|필터 검색 화면|검색어 검색 화면|즐겨찾기 화면|
+|태그 검색 화면|검색어 검색 화면|즐겨찾기 화면|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/89417b74-2c4b-4131-9b28-468fc71de5b3">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/388acec9-e192-4551-b380-278eceba9bd1">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/e07da089-7983-4831-b7b2-77c1718907ac">|
+|<img width="388" src="https://github.com/user-attachments/assets/25877b47-a309-47b1-8394-934c5dd95e34">|<img width="388" src="https://github.com/user-attachments/assets/c0f4f1f6-96ef-4709-ab85-076fc2275465">|<img width="388" src="https://github.com/user-attachments/assets/f7c052b2-6971-45ef-8331-573237e1f590">|
 <br>
 
 담요에 없는 흡연구역이 있을 경우 이를 제보할 수 있습니다.
 
 |제보할 위치의 지도 화면|흡연구역 정보 입력화면|제보가 반영된 지도 화면|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b4fcc53c-e3fb-499b-8731-f46176dad842">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/45965d2b-26a8-4535-9708-493e72244667">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/fe769996-8584-4f99-b215-1b1e1978976e">|
+|<img width="388" src="https://github.com/user-attachments/assets/62488bf5-9bc8-4cfa-8e27-95c3250dfc17">|<img width="388" src="https://github.com/user-attachments/assets/ecc0fb96-3bc7-48f3-ad3f-5cad64971a04">|<img width="388" src="https://github.com/user-attachments/assets/79beef64-df54-4ebd-8716-936e3e7bf47f">|
 <br>
 
-방문한 흡연구역에 대한 리뷰를 작성할 수 있습니다.
-|리뷰를 작성하기 전 흡연구역 상세정보 화면|리뷰 작성 화면|리뷰를 작성한 후 흡연구역 상세정보 화면|
+방문한 흡연구역에 대한 리뷰 작성, 정보 수정 제안, 흡연 완료를 진행할 수 있습니다.
+|리뷰 작성 화면|정보 수정 제안 화면|흡연 완료 화면|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b690e9ae-4484-4c12-b631-f6bdf7db9862">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/f43f69ac-04bb-4dec-8445-bdc1d45348d2">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8b8a3924-3fea-497f-88c4-d55eca7e9857">|
+|<img width="388" src="https://github.com/user-attachments/assets/58d9cdf8-d243-4b44-9687-99655072f773">|<img width="388" src="https://github.com/user-attachments/assets/8b4f511e-9b8e-483b-8945-c8979e8cbe85">|<img width="388" src="https://github.com/user-attachments/assets/8e3367a5-4ac6-41d0-b28c-1fa3cc170481">|
+
+방문한 흡연구역을 즐겨찾기에 추가하고 관리할 수 있습니다.
+|즐겨찾기 추가 화면|즐겨찾기 관리 화면||
+|---|---|---|
+|<img width="388" src="https://github.com/user-attachments/assets/bc5e194f-7d39-40eb-9279-23f7524e1590">|<img width="388" src="https://github.com/user-attachments/assets/36d7485e-a98e-47d7-a9ed-b504af9df773">|<img width="388">|
 
 #### 2️⃣ 흡연데이터 통계
-사용자가 가장 많이 방문한 흡연구역과 전체 사용자들이 가장 많이 방문한 흡연구역을 확인할 수 있습니다. 특별 기간 동안 흡연량을 확인할 수 있습니다.
-|가장 많이 방문한 흡연구역|특별 기간 흡연 통계| |
+사용자가 가장 많이 방문한 흡연구역과 전체 사용자들이 가장 많이 방문한 흡연구역을 확인할 수 있습니다. 시간별 평균 흡연량, 기간별 평균 흡연량을 확인할 수 있습니다.
+|가장 많이 방문한 흡연구역|시간별 평균 흡연량|기간별 평균 흡연량|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/9a4c0ab2-80d3-4fe2-848d-7e764546d974">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8bee90bd-a486-4b75-ac70-f5e1f38a2d78">|<img width="388">|
+|<img width="388" src="https://github.com/user-attachments/assets/403fe2ce-2841-434e-b769-45e3cd613bb7">|<img width="388" src="https://github.com/user-attachments/assets/1d2fb9a6-9d9c-4419-83b3-c32984bc4fba">|<img width="388" src="https://github.com/user-attachments/assets/93c8f174-e0f7-4d84-af79-83a953a8b1db">|
 <br>
 
-시간별 평균 흡연량, 기간별 흡연량, 평균 흡연량을 확인할 수 있습니다.
-|시간별 평균 흡량|기간별 흡연량|평균 흡연량|
+#### 3️⃣ 마이페이지 및 소셜로그인
+마이페이지에서 로그인, 흡연데이터 초기화, 기여도 확인 등을 진행할 수 있습니다. 로그인은 구글, 네이버 2가지의 소셜 로그인을 지원합니다.
+|로그인 페이지|로그인 후 마이페이지|기여도 페이지|
 |---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/68f8b6fa-137b-4120-8b1b-077c3ee888a7">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/b123581a-cf99-4d78-8529-1aefa037ae21">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/5b3473ea-4348-4b2a-9f71-df5e62db1e12">|
-<br>
-
-#### 3️⃣ 챌린지 및 콘테스트
-
-챌린지 및 콘테스트를 진행할 수 있습니다. 사진찍기 챌린지를 통해 마음에 드는 흡연구역 사진에 좋아요를 누를 수 있으며 랭킹에서 순위를 확인할 수 있습니다.
-|사진찍기 챌린지 화|사진 확대 화면|랭킹 화면|
-|---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/61a23959-f082-4db0-873f-4b886663c648">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/606e2a82-6324-4ec6-87de-1dd0d6e61a26">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/8dceda3c-519a-446c-ba36-372b0fb22803">|
-<br>
-
-#### 4️⃣ 마이페이지 및 소셜로그인
-마이페이지에서 로그인, 푸쉬알림 설정 등을 진행할 수 있습니다. 로그인은 구글, 카카오, 네이버 3가지의 소셜 로그인을 지원합니다.
-|로그인 전 마이페이지|로그인 페이지|로그인 후 마이페이지|
-|---|---|---|
-|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/046cc20a-e6ae-42c6-afbd-aaa9f8b723b7">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/e02c7869-7b57-4abc-a640-049f03602b3b">|<img width="388" src="https://github.com/Alpha-Damyo/.github/assets/55120784/ea342aab-d2f9-427c-802c-43a950b37645">|
+|<img width="388" src="https://github.com/user-attachments/assets/6a9c22f5-d936-48a8-81c6-bb5b564356ef">|<img width="388" src="https://github.com/user-attachments/assets/1b7f3fe9-97d6-45c8-aa88-682dfbf75512">|<img width="388" src="https://github.com/user-attachments/assets/e96fcd06-7cf7-4f9d-867e-32484361f9f5">|
 <br>
 
 ## 5. 팀원 소개
