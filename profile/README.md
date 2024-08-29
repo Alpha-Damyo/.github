@@ -229,5 +229,6 @@ https://github.com/user-attachments/assets/0f18cca6-4657-4e88-b150-28b5bf04fbbc
 ### 💻 서비스 아키택처
 
 <br>
+<img src="https://github.com/user-attachments/assets/76042df6-b1c2-4fb2-a4a5-aa3a2dcb8346">
 
 ## 8. 기타
